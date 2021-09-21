@@ -1,0 +1,15 @@
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\mouse.csprojAssemblyReference.cache
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\mouse.Form1.resources
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\mouse.Properties.Resources.resources
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\mouse.csproj.GenerateResource.cache
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\mouse.csproj.CoreCompileInputs.cache
+C:\Users\antek\source\repos\mouse\mouse\bin\Debug\Mouseclick sound.exe.config
+C:\Users\antek\source\repos\mouse\mouse\bin\Debug\Mouseclick sound.exe.manifest
+C:\Users\antek\source\repos\mouse\mouse\bin\Debug\Mouseclick sound.application
+C:\Users\antek\source\repos\mouse\mouse\bin\Debug\Mouseclick sound.exe
+C:\Users\antek\source\repos\mouse\mouse\bin\Debug\Mouseclick sound.pdb
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\Mouseclick sound.TrustInfo.xml
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\Mouseclick sound.exe.manifest
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\Mouseclick sound.application
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\Mouseclick sound.exe
+C:\Users\antek\source\repos\mouse\mouse\obj\Debug\Mouseclick sound.pdb
